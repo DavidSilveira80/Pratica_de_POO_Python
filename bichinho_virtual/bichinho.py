@@ -1,0 +1,1 @@
+# TODO inplementar classe Tamagushi
